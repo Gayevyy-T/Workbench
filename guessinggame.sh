@@ -1,5 +1,3 @@
-
-
 #read -ep "how many files are in the current directory: "
 #n="$REPLY"
 #echo $n
@@ -26,5 +24,4 @@ guessn() {
 	done
 echo "Greate, the number is correct"
 }
-
 guessn
